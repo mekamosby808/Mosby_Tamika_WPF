@@ -33,3 +33,16 @@
 //
 //userData=userData*1;
 //userData+Number(userData);
+
+
+// Calculate the Discounted price for an item. Create an expression that will calculate the discounted price with and
+// without the sale tax
+
+var OriginalPrice =100;
+var nameOfProduct= 'ABC';
+var percentDiscount=20;
+var taxRate=10;
+var total=OriginalPrice* (1-percentDiscount/100);
+var totalWithTax=taxRate/100*total;
+
+console.log('Your '+nameOfProduct+' was originally $'+OriginalPrice+' but, after a Xs discount, it is now $X without tax, and $X with tax.');
