@@ -23,20 +23,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="7" selection-start="123" selection-end="123" vertical-scroll-proportion="0.22094926" vertical-offset="0" max-vertical-offset="611">
+            <state line="9" column="7" selection-start="123" selection-end="123" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="example.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/example.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="41" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-              <folding />
+            <state line="35" column="0" selection-start="362" selection-end="977" vertical-scroll-proportion="0.8267717" vertical-offset="0" max-vertical-offset="635">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -215,17 +217,19 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/example.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="41" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+        <state line="9" column="7" selection-start="123" selection-end="123" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/example.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="123" selection-end="123" vertical-scroll-proportion="0.22094926" vertical-offset="0" max-vertical-offset="611">
-          <folding />
+        <state line="35" column="0" selection-start="362" selection-end="977" vertical-scroll-proportion="0.8267717" vertical-offset="0" max-vertical-offset="635">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
