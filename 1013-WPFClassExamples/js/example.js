@@ -45,4 +45,4 @@ var taxRate=10;
 var total=OriginalPrice* (1-percentDiscount/100);
 var totalWithTax=taxRate/100*total;
 
-console.log('Your '+nameOfProduct+' was originally $'+OriginalPrice+' but, after a '+percentDiscount+' % discount, is now '+total+' without tax, and $X with tax.');
+console.log('Your '+nameOfProduct+' was originally $'+OriginalPrice+' but, after a '+percentDiscount+' % discount, is now '+total+' without tax, and '+totalWithTax+' with tax.');
