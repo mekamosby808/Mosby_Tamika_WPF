@@ -15,12 +15,23 @@ alert("Hello World");
 //End of Video
 
 
-// Defining Variables Start
+// Defining Variables example Start
 
-var age;
+var age; 
 age = 38;
 var yearOfBirth = 1970;
 
-//End of Defining Variables 
+//End of Defining Variables
+
+
+
+//String and Boolean example
+
+var age = 38;
+var isStudent = false;
+var firstName = "Meka";
+var phrase = "I don\'t know \n you\'ll have to speak with the professor"
+
+// End of String Booleans Video example
 
 
