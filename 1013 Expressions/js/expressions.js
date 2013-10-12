@@ -9,4 +9,4 @@ var a = a + 3;
 console.log(a);
 
 
-// I was not getting the same console.log output as in the video, I tried to figure out what the problem was but didn't see to get it. 
+// I was not getting the same console.log output as in the video, I tried to figure out what the problem was but didn't see to get it.
