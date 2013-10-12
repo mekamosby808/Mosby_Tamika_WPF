@@ -14,7 +14,13 @@ alert("Hello World");
 
 //End of Video
 
-//Declaring Variables Start
 
+// Defining Variables Start
+
+var age;
+age = 38;
+var yearOfBirth = 1970;
+
+//End of Defining Variables 
 
 
