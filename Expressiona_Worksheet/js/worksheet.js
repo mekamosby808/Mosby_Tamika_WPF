@@ -13,3 +13,8 @@ var total=OriginalPrice* (1-percentDiscount/1200);
 var totalWithTax=taxRate/1200*total;
 
 console.log('Your '+nameOfProduct+' was originally $'+OriginalPrice+' but, after a '+percentDiscount+' % discount, is now '+total+' without tax, and '+totalWithTax+' with tax.');
+
+// Dog Years
+
+var dogyears=0;
+var humanyears=7;// how old is your dog?
