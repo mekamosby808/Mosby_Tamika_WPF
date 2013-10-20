@@ -20,14 +20,16 @@
 //Last chance for Gas
 
 
-var gaugeReading =  50;
-//if tank is half full then you have enough gas to continue on
-//if tank is less than half full, you need to stop and get gas
+//var gaugeReading =  50;
+////if tank is half full then you have enough gas to continue on
+////if tank is less than half full, you need to stop and get gas
+//
+//if(gaugeReading <= 50){
+//    console.log("Yes you can make it without stopping for gas");
+//}
+//
+//else{("if the tank is > than .50")
+//    console.log("You need to stop for gas, you only have 10 gallons of gas")
+//}
 
-if(gaugeReading <= 50){
-    console.log("Yes you can make it without stopping for gas");
-}
-
-else{("if the tank is > than .50")
-    console.log("You need to stop for gas, you only have 10 gallons of gas")
-}
+//
